@@ -1795,14 +1795,6 @@
       "adr":"Harrachstraße 7, 4020 Linz"
     },
     {
-      "id":224,
-      "title":"Secţia de votare Nr. 27",
-      "country":"Cipru",
-      "lat":35.144236,
-      "lng":33.343579,
-      "adr":"Strovolos Municipality, 100, Strovolos Avenue, PO box 28403, 2094 Nicosia, Cyprus"
-    },
-    {
       "id":225,
       "title":"Secțiile de votare Nr. 37 și 38",
       "country":"Belgia",
@@ -5115,14 +5107,6 @@
       "adr":"Ambasada României în Turkmenistan<br>Str. Myati Kosayew, nr. 122, Ashgabat"
     },
     {
-      "id":639,
-      "title":"Secţiile de votare Nr. 277 şi 278",
-      "country":"Olanda",
-      "lat":52.091186,
-      "lng":4.281173,
-      "adr":"Ambasada României în Regatul Ţărilor de Jos<br>Catsheuvel 55,  2517 KA, Haga"
-    },
-    {
       "id":640,
       "title":"Secţia de votare Nr. 821",
       "country":"Ucraina",
@@ -5201,14 +5185,6 @@
       "lat":23.612573,
       "lng":58.45821,
       "adr":"Ambasada României în Sultanatul Oman<br>Villa 2990, way 2840, Shatti Al-Qurum, Muscat"
-    },
-    {
-      "id":650,
-      "title":"Secţia de Votare Nr. 85",
-      "country":"Elveţia",
-      "lat":46.227197,
-      "lng":6.186542,
-      "adr":"Misiunea Permanentă a României pe lângă Oficiul Naţiunilor Unite de la Geneva şi organizaţiile internaţionale cu sediul în Elveţia<br>Rue de Vermont 37 - 39, 1202 Geneva, Elveţia"
     },
     {
       "id":651,
@@ -5793,6 +5769,38 @@
       "lat":47.0201594,
       "lng":28.831467,
       "adr":"Institutul Cultural Român \"Mihai Eminescu\" – Chişinău<br>Strada Vlaicu Pârcălab, nr. 39, Chișinău"
+    },
+    {
+      "id":724,
+      "title":"Secţia de votare Nr. 14",
+      "country":"Australia",
+      "lat":-31.957926,
+      "lng":115.862504,
+      "adr":"14 Australia Perth, 1 ST.Georges Terrace, Perth, Western Australia 6000, Duxton Hotel"
+    },
+    {
+      "id":725,
+      "title":"Secţia de votare nr. 63",
+      "country":"Bulgaria",
+      "lat":42.6855915,
+      "lng":23.349146,
+      "adr":"Ambasadă Bd. Mihai Eminescu, nr. 4, Sofia"
+    },
+    {
+      "id":726,
+      "title":"Secţia de votare nr. 134",
+      "country":"Franţa",
+      "lat":48.8454005,
+      "lng":2.2760681,
+      "adr":"Montreuil 1 Salle Convention 1, 6-8, rue de la Convention"
+    },
+    {
+      "id":727,
+      "title":"Secţia de votare nr. 153",
+      "country":"Franţa",
+      "lat":43.7473174,
+      "lng":7.4322421,
+      "adr":"Avenue Princesse Grace, MC 98000"
     }
   ]
 }
