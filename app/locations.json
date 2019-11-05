@@ -278,8 +278,8 @@
       "id":34,
       "title":"Secţia de votare Nr. 235",
       "country":"Germania",
-      "lat":48.32039,
-      "lng":12.19125,
+      "lat":48.5343635,
+      "lng":12.1512613,
       "adr":"Neustadt 474, 84028 Landshut"
     },
     {
@@ -294,8 +294,8 @@
       "id":36,
       "title":"Secţiile de votare Nr. 228, 229, 230, 231, 232 și 233",
       "country":"Germania",
-      "lat":48.11115,
-      "lng":11.3158,
+      "lat":52.4768278,
+      "lng":13.3175492,
       "adr":"Hanauer Str. 103, 80993 München"
     },
     {
@@ -1910,8 +1910,8 @@
       "id":239,
       "title":"Secţia de votare Nr. 245",
       "country":"Germania",
-      "lat":48.46365,
-      "lng":11.26494,
+      "lat":41.0544665,
+      "lng":28.9317587,
       "adr":"Cafe Pierre Loti, Ruschenweg 22, 85055 Ingolstadt"
     },
     {
@@ -2726,8 +2726,8 @@
       "id":341,
       "title":"Secţia de votare Nr. 244",
       "country":"Germania",
-      "lat":48.13453,
-      "lng":11.29143,
+      "lat":52.5182408,
+      "lng":13.4557114,
       "adr":"Adriana Fit Club, Liebigstr. 16, 85757 Karlsfeld-Dachau"
     },
     {
@@ -2774,8 +2774,8 @@
       "id":347,
       "title":"Secţia de votare Nr. 248",
       "country":"Germania",
-      "lat":48.53152,
-      "lng":12.33423,
+      "lat":48.8871951,
+      "lng":12.5593965,
       "adr":"Joseph-von-Fraunhofer-Halle, Am Hagen 75, 94315 Straubing"
     },
     {
@@ -4329,14 +4329,6 @@
       "lat":49.075953,
       "lng":9.149022,
       "adr":"Bahnhofstr. 27, 74348 Lauffen am Neckar"
-    },
-    {
-      "id":542,
-      "title":"Secţia de votare Nr. 205",
-      "country":"Germania",
-      "lat":49.341625,
-      "lng":8.16692,
-      "adr":"Le Quartier Hornbach 13, 67433 Neustadt an der Weinstrasse"
     },
     {
       "id":543,
