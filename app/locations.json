@@ -4331,14 +4331,6 @@
       "adr":"Bahnhofstr. 27, 74348 Lauffen am Neckar"
     },
     {
-      "id":543,
-      "title":"Secţia de votare Nr. 205",
-      "country":"Germania",
-      "lat":49.341625,
-      "lng":8.16692,
-      "adr":"Le Quartier Hornbach 13, 67433 Neustadt an der Weinstrasse"
-    },
-    {
       "id":544,
       "title":"Secţia de votare Nr. 167",
       "country":"Franţa",
@@ -4406,9 +4398,9 @@
       "id":552,
       "title":"Secţia de votare Nr. 141",
       "country":"Franţa",
-      "lat":47.971187,
-      "lng":0.160222,
-      "adr":"Rue Claude Debussy, 72700 Allonnes"
+      "lat":47.9742894,
+      "lng":0.2138357,
+      "adr":"4 Avenue Gréco, 72100, Le Mans"
     },
     {
       "id":553,
@@ -5571,14 +5563,6 @@
       "adr":"Biroul consular  al României la Melbourne – Australia<br>448 St. Kilda Road, Etaj 5, Birou 5.06, VIC 3004, Melbourne"
     },
     {
-      "id":701,
-      "title":"Secţia de votare Nr. 23",
-      "country":"Austria",
-      "lat":47.099873,
-      "lng":15.475594,
-      "adr":"Consulatul Onorific al României la Graz<br>Mariatroster Strasse 211, 8044, Graz"
-    },
-    {
       "id":702,
       "title":"Secţia de votare Nr. 216",
       "country":"Italia",
@@ -5612,7 +5596,7 @@
     },
     {
       "id":706,
-      "title":"GE_Secţia de votare Nr. 157",
+      "title":"Secţia de votare Nr. 205",
       "country":"Germania",
       "lat":49.34056,
       "lng":8.166313,
