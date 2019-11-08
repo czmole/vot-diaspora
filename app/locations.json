@@ -4331,14 +4331,6 @@
       "adr":"Bahnhofstr. 27, 74348 Lauffen am Neckar"
     },
     {
-      "id":543,
-      "title":"Secţia de votare Nr. 205",
-      "country":"Germania",
-      "lat":49.341625,
-      "lng":8.16692,
-      "adr":"Le Quartier Hornbach 13, 67433 Neustadt an der Weinstrasse"
-    },
-    {
       "id":544,
       "title":"Secţia de votare Nr. 167",
       "country":"Franţa",
@@ -5612,7 +5604,7 @@
     },
     {
       "id":706,
-      "title":"GE_Secţia de votare Nr. 157",
+      "title":"Secţia de votare Nr. 205",
       "country":"Germania",
       "lat":49.34056,
       "lng":8.166313,
