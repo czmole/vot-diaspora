@@ -188,7 +188,7 @@
         Malawi: 3245,
         Maldives: 3192,
         Mali: 3223,
-        Malta: 48836,
+        Malta: 259,
         'Marshall Islands': 3187,
         Mauritania: 3211,
         Mauritius: 3155,
