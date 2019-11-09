@@ -44,7 +44,7 @@ section.step.step-user-location(ng-if="vm.debugSteps || vm.step['1'].visible")
       h1.step-title
         | Unde stai?
       p.text-center
-        | Caută orașul în care locuiești pentru a afla care sunt cele mai apropiate secții de votare.
+        | Caută orașul în care locuiești pentru a afla care sunt cele mai apropiate secții de votare. Orice căutare pe harta din această platformă pentru noi înseamnă un cost suplimentar. Dacă te ajută Vot Diaspora, fă o <a href='https://code4.ro/ro/doneaza/' target='_blank'>donație oricât de mică</a> pentru Code for Romania care a dezvoltat acest site complet probono.
 
       form.search(name="find", action="/search", method="post", onsubmit="return false;")
         input(type="text" name="location" id="locate" ng-autocomplete ng-model="vm.city.name" details="vm.city.details" options="vm.city.options" placeholder="Locuiesc in orasul ...")
