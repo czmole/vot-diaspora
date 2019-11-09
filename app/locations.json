@@ -2611,14 +2611,6 @@
       "adr":"Str. Mihai Eminescu nr. 37, Strășeni"
     },
     {
-      "id":327,
-      "title":"Secţia de votare Nr. 423",
-      "country":"Italia",
-      "lat":44.39705,
-      "lng":8.94478,
-      "adr":"Via Mascherpa nr.34R, Genova"
-    },
-    {
       "id":328,
       "title":"Secţia de votare Nr. 420",
       "country":"Italia",
@@ -4126,9 +4118,9 @@
       "id":516,
       "title":"Secţia de votare Nr. 592",
       "country":"Marea Britanie",
-      "lat":52.152477,
-      "lng":-0.563155,
-      "adr":"Duston Community Centre, Pendle Road, Duston, Northampton, Northamptonshire, NN2 6AX"
+      "lat":52.250897,
+      "lng":-0.9421634,
+      "adr":"Duston Community Centre, Pendle Road, Duston, Northampton, Northamptonshire, NN5 6DT"
     },
     {
       "id":517,
@@ -5494,8 +5486,8 @@
       "id":692,
       "title":"Secţiile de votare Nr. 585 și 586",
       "country":"Marea Britanie",
-      "lat":53.28452892,
-      "lng":-2.14330072,
+      "lat":53.4793207,
+      "lng":-2.244619,
       "adr":"Consulatul General al României la Manchester 9 Cooper Street, Manchester, M2 2FW ​"
     },
     {
