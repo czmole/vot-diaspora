@@ -378,7 +378,7 @@
             place.distance = point.distanceTo(placePoint, true);
           });
 
-          _.each(_.sortBy(vm.markers, 'distance').splice(0, 6), function (place) {
+          _.each(_.sortBy(vm.markers, 'distance').splice(0, 10), function (place) {
             var selectedPlace;
             // if (place.co === countryRO) { // tara orasului cautat de user este acceasi cu tara in care se afla ambasada
             selectedPlace = place.texts;
